@@ -9,6 +9,7 @@ Game Engine: A custom game engine handles all the standard rules of chess, inclu
 Modularity: The project is divided into logical components, making it easier to understand and extend.
 
 How to Run
+
 Clone the repository:
 
 git clone https://github.com/Adu-Kwame/Chess.git
@@ -19,6 +20,7 @@ Run the main script:
 python chess.py
 
 Code Structure
+
 chess.py: The main program that orchestrates the game. It imports and uses the aicode.py and engine.py modules to run the chess game.
 
 aicode.py: Contains the core AI logic, including the minimax algorithm and future plans for alpha-beta pruning. This is where the "brain" of the AI resides.
@@ -26,6 +28,7 @@ aicode.py: Contains the core AI logic, including the minimax algorithm and futur
 engine.py: Manages the rules of the game. It handles board state, piece movements, and determines valid moves.
 
 Future Improvements
+
 Alpha-Beta Pruning: Implement this optimization to significantly improve the AI's search efficiency.
 
 GUI: Add a graphical user interface to make the game more interactive.
