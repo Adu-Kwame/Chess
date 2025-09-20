@@ -16,7 +16,7 @@ This project is a chess AI developed for my A-level computer science coursework.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Adu-Kwame/Chess.git](https://github.com/Adu-Kwame/Chess.git)
+    git clone https://github.com/Adu-Kwame/Chess.git
     cd Chess
     ```
 2.  **Run the main script:**
